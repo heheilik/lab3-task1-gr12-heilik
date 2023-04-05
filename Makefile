@@ -1,0 +1,3 @@
+
+run : src/main.c
+	
